@@ -25,7 +25,7 @@ Clone or download the repository to your local machine.
 Navigate to the project directory.
 Run the Python script:
 ```bash
-python image_encryption_tkinter.py
+python [file_name.py]
 ```
 ## How to Use
 - Encrypting an Image
