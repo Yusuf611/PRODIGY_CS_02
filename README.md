@@ -54,4 +54,5 @@ Be careful not to lose the password, as it is critical for decrypting the image!
 
 ## Important Notes
 The password used during encryption must be the same when decrypting the image.
+
 Only .png files can be decrypted since the encryption process outputs .png images.
